@@ -17,7 +17,6 @@ diagrams. If you have ten, read the whole thing.
 |---|---|
 | [RFC: Enabling code coverage in LLVM libc](https://discourse.llvm.org/t/rfc-libc-enabling-code-coverage-in-llvm-libc/91355) | Problem statement and proposed approach |
 | [#213271](https://github.com/llvm/llvm-project/pull/213271) | Coverage instrumentation for freestanding tests. **Merged** |
-| [#214692](https://github.com/llvm/llvm-project/pull/214692) | Developer guide for running coverage locally. **Merged** |
 | [#220595](https://github.com/llvm/llvm-project/pull/220595) | `getpid` syscall wrapper, split out on review. **Merged** |
 | [#221802](https://github.com/llvm/llvm-project/pull/221802) | Full-build support and the MC/DC option. **Merged** |
 | [RFC: Automated code coverage infrastructure](https://discourse.llvm.org/t/rfc-libc-automated-code-coverage-infrastructure-and-ci-workflows/91534) | Follow-up proposal for reporting it automatically |
