@@ -21,7 +21,7 @@ diagrams. If you have ten, read the whole thing.
 | [#221802](https://github.com/llvm/llvm-project/pull/221802) | Full-build support and the MC/DC option. **Merged** |
 | [RFC: Automated code coverage infrastructure](https://discourse.llvm.org/t/rfc-libc-automated-code-coverage-infrastructure-and-ci-workflows/91534) | Follow-up proposal for reporting it automatically |
 | [#219165](https://github.com/llvm/llvm-project/pull/219165) | CI workflows and coverage analysis tooling. **In review** |
-| [#222708](https://github.com/llvm/llvm-project/issues/222708) | Errno ABI issue surfaced by the above. Open |
+
 
 To try it, configure a full build with `-DLIBC_ENABLE_COVERAGE=ON`, and add
 `-DLIBC_ENABLE_COVERAGE_MCDC=ON` for MC/DC. The full walkthrough lives in tree
